@@ -20,3 +20,8 @@ lab-key.pub
 # Environment Variables
 .env
 .env.local
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
