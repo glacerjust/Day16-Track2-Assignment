@@ -24,4 +24,4 @@ lab-key.pub
 # Python virtual environment
 .venv/
 __pycache__/
-*.pyc
+*.pycterraform/ml-benchmark/
